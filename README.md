@@ -1,10 +1,10 @@
 # Snake in C
 A project I did in Sep 2016.
 
-# Description
+## Description
 A console game developped in C. This was my first attempt in developping "games" in C. It built the base for my later console-based graphic programs.
 
-# Takeaways
+## Takeaways
 To produce a "graphic" output in a console window, point lattice may be a good solution. Using a two dimensional character array, I was able to map the gaming area. The indexes are the X & Y coordinates and the character is the pattern you want to show on that particular point.
 Couples functions I found useful:
 <conio.h>
