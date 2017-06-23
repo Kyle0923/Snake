@@ -21,7 +21,7 @@ sleep(int m_sec) on Windows, it suspends the thread for m_sec milliseconds. On s
 
 system(string str) allows programmer to call console commands. system("cls") is helpful when you want to clean up the console screen.
 
-Although this codes works, there are a lot to improve.
+#### Although this codes works, there are a lot to improve.
 
 Overuse of global variables: could cause insecure data access.
 
