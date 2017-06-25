@@ -25,6 +25,6 @@ system(string str) allows programmer to call console commands. system("cls") is 
 
 Overuse of global variables: could cause insecure data access.
 
-Use of the "forbidden" goto.
+Use of goto.
 
 Naming of variables and functions did not follow any convention. This can cause the codes hard to read.
